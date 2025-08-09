@@ -11,7 +11,7 @@ public class OperatorExam4 {
 		System.out.println(b1 && b3);
 		System.out.println(b1 || b2);
 		System.out.println(b1 || b3);
-//		System.out.println(b2 || b2);
+		System.out.println(b2 || b2);
 		
 		int score = 88;
 		if(score <= 100 && score >=70) {

@@ -6,15 +6,15 @@ public class PrimitiveDataTypeExam {
 		boolean isFun = false;
 		System.out.println(isFun);
 		
-//		char c = 'f';
+		char c = 'f';
 		
-//		int x = 59;
+		int x = 59;
 		
-//		long bing = 345455433l;
+		long bing = 345455433l;
 		
-//		float f = 32.4f;
+		float f = 32.4f;
 		
-//		double d = 3434343.5;
+		double d = 3434343.5;
 	}
 
 }
